@@ -1,0 +1,16 @@
+{
+  "vendor_name": {"value": "Shakti Cables & Wires Pvt Ltd", "source": "Shakti Cables & Wires Pvt Ltd"},
+  "vendor_gstin": {"value": "24AAICS7310M1Z6", "source": "GSTIN/UIN: 24AAICS7310M1Z6"},
+  "invoice_number": {"value": null, "source": "Invoice No: (blank)"},
+  "invoice_date": {"value": "09/11/2026", "source": "Date: 09/11/2026"},
+  "po_reference": {"value": "PO/2026/0412", "source": "Order Ref: PO/2026/0412"},
+  "place_of_supply": {"value": null, "source": null},
+  "line_items": [
+    {"description": "LT-AL-3.5C-XLPE-SWA 1.1kV 3.5 Core Al XLPE Armd", "hsn_sac": "85444999", "quantity": 2000, "unit": "m", "unit_price": 450, "amount": 900000, "source": "1 LT-AL-3.5C-XLPE-SWA 1.1kV 3.5 Core Al XLPE Armd 85444999 2000 m 450.00 9,00,000.00"},
+    {"description": "CTRL-CU-4C-PVC-SWA 1.1kV 4 Core Cu PVC Armd", "hsn_sac": "85444999", "quantity": 1000, "unit": "m", "unit_price": 320, "amount": 320000, "source": "2 CTRL-CU-4C-PVC-SWA 1.1kV 4 Core Cu PVC Armd 85444999 1000 m 320.00 3,20,000.00"}
+  ],
+  "taxable_value": {"value": 1220000, "source": "Taxable Value 12,20,000.00"},
+  "taxes": [{"type": "IGST", "rate_percent": 18, "amount": 219600, "source": "IGST 18% 2,19,600.00"}],
+  "total_amount": {"value": 1439600, "source": "Total 14,39,600.00"},
+  "notes": "Goods dispatched in 6 drums. Transport: VRL Logistics LR 55821."
+}

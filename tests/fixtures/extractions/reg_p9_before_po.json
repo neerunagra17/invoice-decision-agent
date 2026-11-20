@@ -1,0 +1,54 @@
+{
+  "vendor_name": {
+    "value": "Shakti Cables & Wires Pvt Ltd",
+    "source": "Shakti Cables & Wires Pvt Ltd"
+  },
+  "vendor_gstin": {
+    "value": "24AAICS7310M1Z6",
+    "source": "GSTIN/UIN: 24AAICS7310M1Z6"
+  },
+  "invoice_number": {
+    "value": "SCW/2026/2291",
+    "source": "Invoice No: SCW/2026/2291"
+  },
+  "invoice_date": {
+    "value": "01/01/2026",
+    "source": null
+  },
+  "po_reference": {
+    "value": "2026-0430",
+    "source": "Order Ref: 2026-0430"
+  },
+  "place_of_supply": {
+    "value": null,
+    "source": null
+  },
+  "line_items": [
+    {
+      "description": "BW-CU-1C-PVC-FR 1.1kV Single Core Cu PVC FR Wire",
+      "hsn_sac": "85444920",
+      "quantity": 5000,
+      "unit": "m",
+      "unit_price": 18,
+      "amount": 90000,
+      "source": "1 BW-CU-1C-PVC-FR 1.1kV Single Core Cu PVC FR Wire 85444920 5000 m 18.00 90,000.00"
+    }
+  ],
+  "taxable_value": {
+    "value": 90000,
+    "source": "Taxable Value 90,000.00"
+  },
+  "taxes": [
+    {
+      "type": "IGST",
+      "rate_percent": 18,
+      "amount": 16200,
+      "source": null
+    }
+  ],
+  "total_amount": {
+    "value": 106200,
+    "source": "Total 1,06,200.00"
+  },
+  "notes": "Goods dispatched in 50 coils of 100 m."
+}

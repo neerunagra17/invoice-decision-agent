@@ -1,0 +1,54 @@
+{
+  "vendor_name": {
+    "value": "Shakti Cables & Wires Pvt Ltd",
+    "source": "Shakti Cables & Wires Pvt Ltd"
+  },
+  "vendor_gstin": {
+    "value": "24AAICS7310M1Z6",
+    "source": "GSTIN/UIN: 24AAICS7310M1Z6"
+  },
+  "invoice_number": {
+    "value": "SCW/2026/2291",
+    "source": "Invoice No: SCW/2026/2291"
+  },
+  "invoice_date": {
+    "value": "13/11/2026",
+    "source": "Date: 13/11/2026"
+  },
+  "po_reference": {
+    "value": "2026-0430",
+    "source": "Order Ref: 2026-0430"
+  },
+  "place_of_supply": {
+    "value": null,
+    "source": null
+  },
+  "line_items": [
+    {
+      "description": "Packing and forwarding",
+      "hsn_sac": null,
+      "quantity": 10,
+      "unit": "nos",
+      "unit_price": 18,
+      "amount": 180,
+      "source": null
+    }
+  ],
+  "taxable_value": {
+    "value": 180,
+    "source": null
+  },
+  "taxes": [
+    {
+      "type": "IGST",
+      "rate_percent": 18,
+      "amount": 32.4,
+      "source": null
+    }
+  ],
+  "total_amount": {
+    "value": 212.4,
+    "source": null
+  },
+  "notes": "Goods dispatched in 50 coils of 100 m."
+}

@@ -1,0 +1,6 @@
+vendor_id,legal_name,gstin,state,state_code,status,payment_terms_days
+V001,Shakti Cables & Wires Pvt Ltd,24AAICS7310M1Z6,Gujarat,24,ACTIVE,45
+V002,Nimbus IT Solutions LLP,29AAKFN2286P1ZE,Karnataka,29,ACTIVE,30
+V003,Ganges Logistics & Freight,09AAFFG5512Q1ZZ,Uttar Pradesh,09,ACTIVE,30
+V004,Apex Electrical Testing Labs Pvt Ltd,27AAECA9043R1Z2,Maharashtra,27,ACTIVE,30
+V005,Sunrise Office Supplies,09ABAFS1178L1ZU,Uttar Pradesh,09,BLOCKED,15

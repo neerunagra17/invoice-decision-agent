@@ -1,0 +1,12 @@
+{
+  "vendor_name": {"value": "Sunrise Office Supplies", "source": "Sunrise Office Supplies"},
+  "vendor_gstin": {"value": "09ABAFS1178L1ZU", "source": "GSTIN: 09ABAFS1178L1ZU"},
+  "invoice_number": {"value": "SOS/411", "source": "Invoice No: SOS/411"},
+  "invoice_date": {"value": "10/11/2026", "source": "Date: 10/11/2026"},
+  "po_reference": {"value": null, "source": null},
+  "line_items": [{"description": "A4 copier paper 75 gsm (ream)", "quantity": 100, "unit": "ream", "unit_price": 250, "amount": 25000, "source": null}],
+  "taxable_value": {"value": 25000, "source": null},
+  "taxes": [{"type": "CGST", "rate_percent": 9, "amount": 2250}, {"type": "SGST", "rate_percent": 9, "amount": 2250}],
+  "total_amount": {"value": 29500, "source": null},
+  "notes": null
+}

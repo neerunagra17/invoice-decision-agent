@@ -1,0 +1,15 @@
+{
+  "vendor_name": {"value": "Apex Electrical Testing Labs Pvt Ltd", "source": "Apex Electrical Testing Labs Pvt Ltd"},
+  "vendor_gstin": {"value": "27AAECA9043R1Z2", "source": "GSTIN: 27AAECA9043R1Z2"},
+  "invoice_number": {"value": "APX/2026/131", "source": "Invoice No. APX/2026/131"},
+  "invoice_date": {"value": "14.11.2026", "source": "Date 14.11.2026"},
+  "po_reference": {"value": "PO-2026-0425", "source": "Against PO PO-2026-0425"},
+  "place_of_supply": {"value": null, "source": null},
+  "line_items": [
+    {"description": "Routine test - LT power cable (per drum)", "hsn_sac": "998346", "quantity": 26, "unit": "drums", "unit_price": 10000, "amount": 260000, "source": "1 Routine test - LT power cable (per drum) 998346 26 drums 10,000.00 2,60,000.00"}
+  ],
+  "taxable_value": {"value": 260000, "source": "Taxable Amount 2,60,000.00"},
+  "taxes": [{"type": "IGST", "rate_percent": 18, "amount": 46800, "source": "IGST 18% 46,800.00"}],
+  "total_amount": {"value": 306800, "source": "Total Payable 3,06,800.00"},
+  "notes": "Ref: Second & final bill. Type tests billed earlier vide APX/2026/112. Six additional drums tested at site as instructed by your engineer."
+}

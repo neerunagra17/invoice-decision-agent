@@ -1,0 +1,10 @@
+po_number,vendor_id,po_date,line_no,description,hsn_sac,qty,unit,unit_price,tax_rate,po_status
+PO-2026-0412,V001,2026-10-08,1,1.1 kV 3.5C Al XLPE Armoured Power Cable (LT-AL-3.5C-XLPE-SWA),85444999,2000,m,450.00,18,OPEN
+PO-2026-0412,V001,2026-10-08,2,1.1 kV 4C Cu PVC Armoured Control Cable (CTRL-CU-4C-PVC-SWA),85444999,1000,m,320.00,18,OPEN
+PO-2026-0418,V002,2026-10-14,1,Business Laptop 14in i7 16GB 512GB SSD,84713010,10,nos,62000.00,18,OPEN
+PO-2026-0418,V002,2026-10-14,2,USB-C Docking Station,84733099,10,nos,8500.00,18,OPEN
+PO-2026-0421,V003,2026-10-20,1,Warehousing & material handling - November 2026,996729,1,lot,216000.00,18,OPEN
+PO-2026-0425,V004,2026-10-22,1,Type test - LT power cable (per sample),998346,5,samples,60000.00,18,OPEN
+PO-2026-0425,V004,2026-10-22,2,Routine test - LT power cable (per drum),998346,20,drums,10000.00,18,OPEN
+PO-2026-0430,V001,2026-10-27,1,1.1 kV 1C Cu PVC FR Building Wire (BW-CU-1C-PVC-FR),85444920,5000,m,18.00,18,OPEN
+PO-2026-0433,V003,2026-11-02,1,Road freight Kanpur-Lucknow (per trip) - December 2026,996511,8,trips,18000.00,18,OPEN

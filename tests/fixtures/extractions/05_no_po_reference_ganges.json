@@ -1,0 +1,18 @@
+{
+  "vendor_name": {"value": "Ganges Logistics & Freight", "source": "Ganges Logistics & Freight"},
+  "vendor_gstin": {"value": "09AAFFG5512Q1ZZ", "source": "GSTIN/UIN: 09AAFFG5512Q1ZZ"},
+  "invoice_number": {"value": "GLF/1187", "source": "Bill No. GLF/1187"},
+  "invoice_date": {"value": "12/11/2026", "source": "Date 12/11/2026"},
+  "po_reference": {"value": null, "source": null},
+  "place_of_supply": {"value": null, "source": null},
+  "line_items": [
+    {"description": "Warehousing and handling charges for the month of Nov-2026", "hsn_sac": "996729", "quantity": 1, "unit": null, "unit_price": 216000, "amount": 216000, "source": "1 Warehousing and handling charges for the month of Nov-2026 1 2,16,000.00 2,16,000.00"}
+  ],
+  "taxable_value": {"value": 216000, "source": "Taxable Value 2,16,000.00"},
+  "taxes": [
+    {"type": "CGST", "rate_percent": 9, "amount": 19440, "source": "CGST @ 9% 19,440.00"},
+    {"type": "SGST", "rate_percent": 9, "amount": 19440, "source": "SGST @ 9% 19,440.00"}
+  ],
+  "total_amount": {"value": 254880, "source": "Total 2,54,880.00"},
+  "notes": "Period: Nov-2026. SAC 996729. Payment within 30 days."
+}

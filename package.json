@@ -1,0 +1,30 @@
+{
+  "name": "invoice-decision-agent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PS-1: invoice PDF -> reasoned APPROVE / HOLD / REJECT decision with a live run view and dashboard",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node --watch server/index.js",
+    "dev:client": "npm --prefix client run dev",
+    "build": "npm --prefix client install && npm --prefix client run build",
+    "start": "node server/index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "csv-parse": "^7.0.3",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3",
+    "mongoose": "^8.24.10",
+    "multer": "^2.5.0",
+    "pdfjs-dist": "^4.10.38",
+    "socket.io": "^4.8.4",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "socket.io-client": "^4.8.4"
+  }
+}

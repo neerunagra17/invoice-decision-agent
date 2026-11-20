@@ -1,0 +1,8 @@
+[
+  { "file": "01_happy_nimbus_laptops.pdf", "title": "Nimbus IT · laptops", "about": "Clean digital invoice quoting its PO" },
+  { "file": "02_duplicate_nimbus_resend.pdf", "title": "Nimbus IT · re-sent copy", "about": "Same invoice as 01, different layout and date format (run 01 first)" },
+  { "file": "03_split_overbilling_apex.pdf", "title": "Apex Labs · second bill on a PO", "about": "PO split across two invoices; the first is already in history" },
+  { "file": "04_scanned_missing_invoice_no_shakti.pdf", "title": "Shakti Cables · scanned", "about": "Image-only scan, no text layer" },
+  { "file": "05_no_po_reference_ganges.pdf", "title": "Ganges Logistics · no PO number", "about": "Vendor has two open POs; none is quoted" },
+  { "file": "06_wrong_tax_type_shakti.pdf", "title": "Shakti Cables · wire", "about": "Supplier in Gujarat, buyer in Uttar Pradesh" }
+]

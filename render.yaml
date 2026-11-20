@@ -1,0 +1,22 @@
+# Render Blueprint: New > Blueprint > pick this repo. Then set GEMINI_API_KEY and MONGODB_URI in the dashboard.
+services:
+  - type: web
+    name: invoice-decision-agent
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: MONGODB_URI
+        sync: false
+      - key: GEMINI_MODEL
+        value: gemini-3.5-flash-lite
+      - key: INFERRED_PO_POLICY
+        value: hold
+      - key: AUTO_APPROVE_LIMIT
+        value: "1000000"

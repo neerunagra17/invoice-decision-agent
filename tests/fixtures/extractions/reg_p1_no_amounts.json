@@ -1,0 +1,44 @@
+{
+  "vendor_name": {
+    "value": "Nimbus IT Solutions LLP",
+    "source": "Nimbus IT Solutions LLP"
+  },
+  "vendor_gstin": {
+    "value": "29AAKFN2286P1ZE",
+    "source": "GSTIN: 29AAKFN2286P1ZE"
+  },
+  "invoice_number": {
+    "value": "NIM/26-27/0871",
+    "source": "Invoice No: NIM/26-27/0871"
+  },
+  "invoice_date": {
+    "value": "05/11/2026",
+    "source": "Invoice Date: 05/11/2026"
+  },
+  "po_reference": {
+    "value": "PO-2026-0418",
+    "source": "PO No: PO-2026-0418"
+  },
+  "place_of_supply": {
+    "value": "Uttar Pradesh (09)",
+    "source": "Place of Supply: Uttar Pradesh (09)"
+  },
+  "line_items": [],
+  "taxable_value": {
+    "value": null,
+    "source": null
+  },
+  "taxes": [
+    {
+      "type": "IGST",
+      "rate_percent": 18,
+      "amount": 126900,
+      "source": "IGST @ 18% 1,26,900.00"
+    }
+  ],
+  "total_amount": {
+    "value": 831900,
+    "source": "Invoice Total (INR) 8,31,900.00"
+  },
+  "notes": null
+}
